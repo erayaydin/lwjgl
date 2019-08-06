@@ -1,0 +1,4 @@
+[submodule "Libraries/LWJGL3"]
+	path = Libraries/LWJGL3
+	url = git@github.com:LWJGL/lwjgl3.git
+	branch = master
